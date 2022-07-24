@@ -11,7 +11,7 @@ public class pro2404 {
         n = scanner.nextInt();
         fun(0);
         for (String value : set) {
-            System.out.println(value.replaceAll("", "+").substring(1));
+            System.out.println(value.replaceAll("", "+").substring(1,2*value.length()));
         }
     }
     
