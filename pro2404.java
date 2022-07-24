@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class p2040 {
+public class pro2404 {
     public static int n,count=0;
     public static ArrayList<Integer> list = new ArrayList<>();
     public static Set<String> set = new HashSet<>();
